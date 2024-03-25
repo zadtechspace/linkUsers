@@ -151,14 +151,18 @@ blockquote{
     height: 60vh;
 }
 .waiz{
-    width: 1200px;
-    margin: 90px 190px;
+    width: 100%;
+    /* margin: 90px 190px; */
     flex-direction: column;
     gap: 30px;
 }
 .waizfirst{
    display: flex;
-   gap: 20px;
+   justify-content: space-between;
+   align-items: center;
+   /* gap: 20px; */
+   padding: 100px;
+
 }
 .waizfirsttext{
     width: 455px;
@@ -181,7 +185,11 @@ width: 600px;
 }
 .waizsecond{
    display: flex;
-   gap: 100px;
+   /* gap: 100px; */
+   justify-content: space-between;
+   align-items: center;
+   /* gap: 20px; */
+   padding: 100px;
  
 }
 .waizsecondtext{
