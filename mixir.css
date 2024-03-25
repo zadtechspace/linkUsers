@@ -150,3 +150,56 @@ blockquote{
     border-radius: 10px;
     height: 60vh;
 }
+.waiz{
+    width: 1200px;
+    margin: 90px 190px;
+    flex-direction: column;
+    gap: 30px;
+}
+.waizfirst{
+   display: flex;
+   gap: 20px;
+}
+.waizfirsttext{
+    width: 455px;
+    margin-top: 100px;
+}
+.waizfirsttext h1{
+line-height: 60px;
+font-size: 48px;
+font-weight: 700;
+width: 395px;
+}
+.waizfirsttext p{
+    line-height: 28px;
+    font-size: 25px;
+    font-weight: 400;
+    width: 455px;
+}
+.waizfirstimg img{
+width: 600px;
+}
+.waizsecond{
+   display: flex;
+   gap: 100px;
+ 
+}
+.waizsecondtext{
+    width: 455px;
+    margin-top: 140px;
+}
+.waizsecondtext h1{
+line-height: 60px;
+font-size: 48px;
+font-weight: 700;
+width: 395px;
+}
+.waizsecondtext p{
+    line-height: 32px;
+    font-size: 25px;
+    font-weight: 400;
+    width: 455px;
+}
+.waizsecondimg img{
+width: 600px;
+}
