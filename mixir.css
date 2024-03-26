@@ -150,3 +150,44 @@ blockquote{
     border-radius: 10px;
     height: 60vh;
 }
+.sec5{
+    display: flex;
+    margin-top: 70px;
+}
+.decade{
+    width: 20%;
+    margin-left: 250px;
+}
+.img5 img{
+    width: 65%;
+    margin-left: 100px;
+}
+.dec5{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 120px;
+}
+.sec6{
+    display: flex;
+}
+.sec6img img{
+    width: 140%;
+}
+.cre3{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 120px;
+    width: 50%;
+}
+.cre4{
+    width: 50%;
+    font-weight: 60px;
+}
+.sec6{
+    margin-left: 230px;
+    margin-top: 100px;
+}
+.create1{
+    margin-left: 250px;
+    margin-top: -70px;
+}
