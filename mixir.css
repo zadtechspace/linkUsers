@@ -150,3 +150,32 @@ blockquote{
     border-radius: 10px;
     height: 60vh;
 }
+
+/*AYONIC*/
+
+.contain-box {
+    width: 95%;
+}
+
+.s1box6 {
+    width: 80%; 
+    margin: 50px 0;    
+}
+
+.s1box6-text-lg {
+    color: black;
+    font-size: 48px;
+    font-weight: 800;
+    font-family: Montserrat, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+.s1box6-text-sm{
+    font-size: 20px;
+    font-family: Montserrat, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    /* padding-right: 30px; */
+}
+
+.s1box6-img {
+    width: 36vw;
+    margin-right: 54px;
+}
